@@ -1,0 +1,10 @@
+
+   The goal was to create code to solve the 8 puzzle game. 8 puzzle is a 3 by 3 grid and within it
+   there are 8 numbered tiles and 1 empty tile to move around. Our goal was to get them in order from 1-8
+   To code this we used A* algorithm. After doing some research, for Board.java, i understood that the hamming distance
+   is just the # of tiles in wrong place and Manhattan distance or Heuristic is estimate distance for the tile to its
+   goal state. Board.java also checks if solvable by seeing if even or odd. Solver actually solves the puzzle by using
+   boards solvable function. Solver wants to get from the begininning to the goal in quickest way possible. A good way
+   to think about it is like a mouse in a maze and at the end of the maze there is cheese. and by going through each
+   node and finding the shortest path then the smell gets stronger and stronger until it reaches the cheese. That is a
+   way to think of 8puzzle.
