@@ -1,0 +1,8 @@
+
+   The goal  was to estimate the percolation threshold of a system. Percolation helps us model how water
+   or electricity can move through different systems and landscapes. In this project we modeled a percolation system by
+   using an n * n grid that consisted of open and blocked sites. If the system has a path of open sites from the top
+   row all the way to the bottom row, then the system percolates. The chance of a system percolating is determined by
+   the chances of the sites being open. Think about a box with a bunch of layers and each layer has some doors. At 0
+   the doors are all closed so the system does not percolate. At 1 the doors are all open so the system percolates. We
+   basically had to code an estimate of the systems percolation probabilities within the grid size.
