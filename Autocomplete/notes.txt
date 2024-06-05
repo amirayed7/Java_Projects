@@ -1,0 +1,10 @@
+
+   The point of this project was to build a program that will autocomplete what a user would
+   want to type out based off of its weight or importance/relevance. In the first problem,
+   We are basically taking a list of words and sorting them in order like a dictionary, by
+   their relevance, or by their first a couple of characters. Next for Binary search deluxe,
+   you are searching through the indexes to find the specific key needed and are saved in
+   first and last indexes and return them. This helps autocomplete be more useful. Lastly,
+   problem 3, Autocomplete, uses the previous problems to implement. It uses Binary search
+   to find the letters that match and terms to sort them.
+
