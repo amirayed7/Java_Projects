@@ -1,0 +1,10 @@
+
+   THe goal was to create Wordnet which lets us see how words can be connected
+   to each-other. for example, cow and sheep and be related as animals. THis can also be used
+   to find common books or articles which can be about the same genre and many other uses. In wordnet
+   we are able to see how words are connected. And to find words that are the most
+   closely related to each-other, we use the shortest common ancestor. Then, in outcast,
+   you find the word that doesn't seem like it belongs with the rest. THis can help get better
+   results.
+
+
