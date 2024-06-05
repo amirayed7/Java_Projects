@@ -1,0 +1,12 @@
+   The goal of this project was to create a symbol table data which is a
+   data structure and its keys are 2 dimensional points. We also use 2dTrees
+   which is a binary tree that is built to help us find and take in specific points.
+   We are finding all the points ina rectangle, and it can be used for mny taske such
+   as classifying objects in space, or in an image, or for example, searching on
+   your phone gas stations and it gives you gas stations within a radius. BrutePointST
+   is used to store the two dimentional points and can help search and filter for points
+   within a certain area using red black binary search tree which keeps everything balanced
+   and and organized like a dictionary. ANd Kdtreepoint is also important. it helped organize
+   the points in a 2 dimentional space. BAsically, instead of searching from the left or right,
+   it would search through different dimentions through the tree, and this process helps find points
+   more quickly because of how its organized.
